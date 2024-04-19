@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(7, 99, 60) !important;
+}
+
+.formulario {
+    border: 1px solid #ccc;
+    padding: 2rem 3rem 3rem !important;
+    border-radius: 1rem;
+    color: #77777a;
+    background-color: #FFF;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 1rem !important;
+    padding: .5rem;
+}
+
+input[type="submit"] {
+    background-color: rgb(7, 99, 60) !important;
+    color: #FFF;
+    border: 0;
+    width: 10rem;
+}
+
+button {
+    background-color: rgb(7, 99, 60) !important;
+    color: #FFF;
+    border: 0;
+    width: 10rem;
+    margin-bottom: 1rem !important;
+    padding: .5rem;
+}
+
+table, th, td {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+}
+
+table th {
+    color: #77777A !important;
+}
+
+table td {
+    color: #676767 !important;
+}
